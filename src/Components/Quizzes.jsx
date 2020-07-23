@@ -10,8 +10,8 @@ class Quizzes extends Component {
 
             <div className="container-fluid pt-5" >
                 <div className="row no-gutters ">
-                <h1 className="header">Recent Homeworks</h1>
-                <div className="card-deck pl-5  pr-5d-flex justify-content-center ">
+                <h1 className="header">Recent Quizzes</h1>
+                <div className="card-deck   pr-5d-flex justify-content-center ">
                     
                     <div className="col-sm-3">
                     <div className="card border border-gold h-100 shadow p-3 mb-5 bg-white rounded">
