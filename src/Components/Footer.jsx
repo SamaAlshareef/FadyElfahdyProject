@@ -8,7 +8,7 @@ class Footer extends Component {
     render() { 
         return (  
 
-            <footer class="footer custom-footer mt-auto mt-3 ">
+            <footer class="footer custom-footer mt-3 ">
             <div class="container-fluid">
                <div className="row ">
                    <div className="col-6 d-flex flex-column">

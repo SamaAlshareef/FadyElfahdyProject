@@ -1,7 +1,7 @@
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import './App.css';
-import './custom.css';
+
 import Home from './Components/HomePage';
 import HomeWorksPage from './Components/HomeWorksPage';
 import {BrowserRouter as Router} from 'react-router-dom';
