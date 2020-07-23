@@ -11,7 +11,7 @@ class Questions extends Component {
             <p className="header">Chemistry Homework</p>
             <div className="row d-flex justify-content-start ml-5">
                 
-                <div className="col-6">
+                <div className="col-sm-6">
                 <div class="card border border-round shadow p-3 mb-5 bg-white rounded">
                     <div class="card-body">
                     <p className="title-font">What is the first element on the periodic table?</p>
@@ -60,7 +60,7 @@ class Questions extends Component {
                 
                     
                 </div>
-                <div className="col-6">
+                <div className="col-sm-6">
                 <div class="card border border-round shadow p-3 mb-5 bg-white rounded feedback mb-5">
                     <div class="card-body">
                         <p  className=""></p>
