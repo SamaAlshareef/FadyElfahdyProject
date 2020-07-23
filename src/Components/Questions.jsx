@@ -9,7 +9,7 @@ class Questions extends Component {
         return (  
         <div className="container-fluid">
             <p className="header">Chemistry Homework</p>
-            <div className="row d-flex justify-content-start ml-5">
+            <div className="row d-flex justify-content-start ">
                 
                 <div className="col-sm-6">
                 <div class="card border border-round shadow p-3 mb-5 bg-white rounded">

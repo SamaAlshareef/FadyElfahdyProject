@@ -9,7 +9,7 @@ class CardsSection extends Component {
         return (  
 
             <div className="container-fluid pt-5" >
-                <div className="row no-gutters ">
+                <div className="row no-gutters d-flex ">
                 <h1 className="header">{this.props.title}</h1>
                 <div className="card-deck  pr-5d-flex justify-content-center ">
                     
@@ -73,7 +73,7 @@ class CardsSection extends Component {
                         </div>
                         </div>
                     </div>
-                    <img src="/images/pagination.png" className="d-flex justify-content-center pagination-icon"/>
+                    <img src="/images/pagination.png" className="d-flex mx-auto d-block pagination-icon"/>
           </div>
                 </div>
             
