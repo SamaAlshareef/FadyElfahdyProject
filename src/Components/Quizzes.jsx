@@ -36,7 +36,7 @@ class Quizzes extends Component {
                         </div>
                         </div>
                     </div>
-                    <div className="col-3">
+                    <div className="col-sm-3">
                     <div className="card border border-gold h-100 shadow p-3 mb-5 bg-white rounded">
                         <img src="/images/study3.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">
@@ -59,7 +59,7 @@ class Quizzes extends Component {
                         </div>
                         </div>
                     </div>
-                    <div className="col-3">
+                    <div className="col-sm-3">
                     <div className="card border border-gold h-100  shadow p-3 mb-5 bg-white rounded">
                         <img src="/images/study4.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">
@@ -82,7 +82,7 @@ class Quizzes extends Component {
                         </div>
                         </div>
                     </div>
-                    <div className="col-3">
+                    <div className="col-sm-3">
                     <div className="card border border-gold h-100 shadow p-3 mb-5 bg-white rounded">
                         <img src="/images/study1.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">

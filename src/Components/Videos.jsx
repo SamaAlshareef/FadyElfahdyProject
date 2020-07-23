@@ -13,7 +13,7 @@ class Videos extends Component {
                 <h1 className="header">Recent Videos</h1>
                 <div className="card-deck pl-5  pr-5 d-flex justify-content-center ">
                     
-                    <div className="col-3">
+                    <div className="col-sm-3">
                     <div className="card border border-gold shadow p-3 mb-5 bg-white rounded">
                         <img src="/images/study1.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">
@@ -30,7 +30,7 @@ class Videos extends Component {
                         </div>
                         </div>
                     </div>
-                    <div className="col-3">
+                    <div className="col-sm-3">
                     <div className="card border border-gold  shadow p-3 mb-5 bg-white rounded">
                         <img src="/images/study2.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">
@@ -47,7 +47,7 @@ class Videos extends Component {
                         </div>
                         </div>
                     </div>
-                    <div className="col-3">
+                    <div className="col-sm-3">
                     <div className="card border border-gold  shadow p-3 mb-5 bg-white rounded">
                         <img src="/images/study3.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">
@@ -64,7 +64,7 @@ class Videos extends Component {
                         </div>
                         </div>
                     </div>
-                    <div className="col-3">
+                    <div className="col-sm-3">
                     <div className="card border border-gold shadow p-3 mb-5 bg-white rounded">
                         <img src="/images/study4.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">
@@ -82,8 +82,9 @@ class Videos extends Component {
                         </div>
                     </div>
            
-                    <img src="/images/pagination.png" className="d-flex justify-content-center pagination-icon"/>
+                    
                 </div>
+                <img src="/images/pagination.png" className="d-flex justify-content-center pagination-icon"/>
                 </div>
             
           </div>
