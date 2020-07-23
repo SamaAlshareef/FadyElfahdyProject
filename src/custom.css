@@ -84,6 +84,8 @@
 .custom-footer{
     background-color: #575757;
     height: 300px !important;
+    max-width: 100% !important;
+    height: auto !important;
 }
 
 .footer-font{
