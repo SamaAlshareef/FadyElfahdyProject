@@ -14,7 +14,7 @@ class Videos extends Component {
                 <div className="card-deck pl-5  pr-5 d-flex justify-content-center ">
                     
                     <div className="col-sm-3">
-                    <div className="card border border-gold shadow p-3 mb-5 bg-white rounded">
+                    <div className="card border border-gold shadow h-100 p-3 mb-5 bg-white rounded">
                         <img src="/images/study1.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">
                         <div className="h-25">
@@ -31,7 +31,7 @@ class Videos extends Component {
                         </div>
                     </div>
                     <div className="col-sm-3">
-                    <div className="card border border-gold  shadow p-3 mb-5 bg-white rounded">
+                    <div className="card border border-gold h-100 shadow p-3 mb-5 bg-white rounded">
                         <img src="/images/study2.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">
                         <div className="h-25">
@@ -48,7 +48,7 @@ class Videos extends Component {
                         </div>
                     </div>
                     <div className="col-sm-3">
-                    <div className="card border border-gold  shadow p-3 mb-5 bg-white rounded">
+                    <div className="card border border-gold h-100 shadow p-3 mb-5 bg-white rounded">
                         <img src="/images/study3.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">
                         <div className="h-25">
@@ -65,7 +65,7 @@ class Videos extends Component {
                         </div>
                     </div>
                     <div className="col-sm-3">
-                    <div className="card border border-gold shadow p-3 mb-5 bg-white rounded">
+                    <div className="card border border-gold shadow h-100 p-3 mb-5 bg-white rounded">
                         <img src="/images/study4.jpg" className="border border-non-gold card-img d-flex justify-content-center " alt="..."/>
                         <div className="card-body">
                         <div className="h-25">
