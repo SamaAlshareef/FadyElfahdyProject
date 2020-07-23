@@ -1,0 +1,124 @@
+.navbar-font
+{
+    font-size: x-large!important;
+    font-weight: 400 !important;
+    margin-left:50px !important;
+    margin-right: 50px !important;
+    margin-top: 20px !important;
+    color: black !important;
+}
+.nav-btn-color{
+    font-size: larger!important;
+    font-weight: 500 !important;
+    
+    margin-top: 20px !important;
+    color: white !important;
+}
+.btn-gold-custom {
+	background-color: #c19d5d;
+    border-color: #c19d5d;
+    border-radius: 10px !important;
+    width: 120px !important; 
+    height: 50px !important;
+}
+.border-gold{
+    border-radius: 20px !important;
+    border-color:#c19d5d !important ;
+}
+.border-round{
+    border-radius: 20px !important;
+    
+}
+.border-non-gold{
+    border-radius: 20px !important;
+}
+.card-img{
+    height: 350px !important;
+    width: 350px !important;
+    max-width: 100% !important;
+    height: auto !important;
+    align-self: center;
+    justify-self: center;
+}
+.enter-icon{
+    height: 30px !important;
+    width: 30px !important;
+    max-width: 100% !important;
+    height: auto !important;
+    align-self: center;
+    justify-self: center;
+    margin-left: 30px;
+   
+}
+.new-card{
+    height: 600px !important;
+    width: 350px !important;
+}
+.gold-font{
+    color: #c19d5d !important;   
+    font-size: x-large!important;
+}
+.title-font{
+    color: black !important;
+    font-size: x-large;
+}
+.header{
+    color: #c19d5d !important;   
+    font-size: xx-large!important;
+    padding-left: 60px;
+    padding-bottom: 20px;
+}
+.warning{
+    color: red;
+}
+.pagination-icon{
+    width: 150px !important;
+    height: 100px !important;
+}
+.footer-icon{
+    width: 500px !important;
+    height: 280px !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+.custom-footer{
+    background-color: #575757;
+    height: 300px !important;
+}
+
+.footer-font{
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+}
+.footer-font2{
+    color:#a6aeb4;
+    font-size: large;
+}
+.logo-icon{
+    width: 250px !important;
+    height: 100px !important;
+    margin-left: 50px !important;
+}
+.media-logos{
+    width: 150px !important;
+    height: 55px !important;
+}
+.input-box{
+    height: 50%;
+    width: 50%;
+    border-radius: 20px;
+    border-color: #c19d5d;
+}
+.feedback{
+    height: 500px;
+    width: 900px;
+    max-width: 100% !important;
+    height: 100% !important;
+    margin-bottom: 10px;
+}
+.microphone-icon{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+}
